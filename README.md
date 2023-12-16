@@ -4,3 +4,5 @@
 
 # Результат выполнения теста
 ![result](/screen.JPG)
+
+# SQL Запросы по заданию № 1 находятся в файле [queries.sql](/queries.sql) 
